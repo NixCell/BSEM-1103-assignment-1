@@ -1,4 +1,4 @@
-# Product Inventory Monitor System
+# Product Inventory Monitor System By Yusuf Balla Keita
 
 ## 1. Introduction
 
